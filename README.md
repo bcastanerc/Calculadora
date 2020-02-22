@@ -1,3 +1,3 @@
 # Calculadora
 
-##Javi quiere que ponga un READMI :(
+## Javi quiere que ponga un README :(
